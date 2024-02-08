@@ -1,7 +1,7 @@
 
-CREATE DATABASE bd_sura4;
+CREATE DATABASE bd_sura;
 GO
-USE bd_sura4;
+USE bd_sura;
 GO
 
 /* CREACIÓN DE TABLAS */
